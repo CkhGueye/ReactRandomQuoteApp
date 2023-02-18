@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactRandomQuoteApp/static/css/main.6c8efea5.chunk.css",
-    "main.js": "/ReactRandomQuoteApp/static/js/main.4d136de4.chunk.js",
-    "main.js.map": "/ReactRandomQuoteApp/static/js/main.4d136de4.chunk.js.map",
-    "runtime-main.js": "/ReactRandomQuoteApp/static/js/runtime-main.ea93c402.js",
-    "runtime-main.js.map": "/ReactRandomQuoteApp/static/js/runtime-main.ea93c402.js.map",
-    "static/js/2.b3d1ac8a.chunk.js": "/ReactRandomQuoteApp/static/js/2.b3d1ac8a.chunk.js",
-    "static/js/2.b3d1ac8a.chunk.js.map": "/ReactRandomQuoteApp/static/js/2.b3d1ac8a.chunk.js.map",
+    "main.css": "/ReactRandomQuoteApp/static/css/main.f991d860.css",
+    "main.js": "/ReactRandomQuoteApp/static/js/main.d1209827.js",
+    "static/media/bg.jpg": "/ReactRandomQuoteApp/static/media/bg.4856949b0c8d4f637f99.jpg",
     "index.html": "/ReactRandomQuoteApp/index.html",
-    "static/css/main.6c8efea5.chunk.css.map": "/ReactRandomQuoteApp/static/css/main.6c8efea5.chunk.css.map",
-    "static/js/2.b3d1ac8a.chunk.js.LICENSE.txt": "/ReactRandomQuoteApp/static/js/2.b3d1ac8a.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/ReactRandomQuoteApp/static/media/bg.4856949b.jpg"
+    "main.f991d860.css.map": "/ReactRandomQuoteApp/static/css/main.f991d860.css.map",
+    "main.d1209827.js.map": "/ReactRandomQuoteApp/static/js/main.d1209827.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea93c402.js",
-    "static/js/2.b3d1ac8a.chunk.js",
-    "static/css/main.6c8efea5.chunk.css",
-    "static/js/main.4d136de4.chunk.js"
+    "static/css/main.f991d860.css",
+    "static/js/main.d1209827.js"
   ]
 }
