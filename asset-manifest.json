@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactRandomQuoteApp/static/css/main.f991d860.css",
+    "main.css": "/ReactRandomQuoteApp/static/css/main.05203606.css",
     "main.js": "/ReactRandomQuoteApp/static/js/main.d1209827.js",
     "static/media/bg.jpg": "/ReactRandomQuoteApp/static/media/bg.4856949b0c8d4f637f99.jpg",
     "index.html": "/ReactRandomQuoteApp/index.html",
-    "main.f991d860.css.map": "/ReactRandomQuoteApp/static/css/main.f991d860.css.map",
+    "main.05203606.css.map": "/ReactRandomQuoteApp/static/css/main.05203606.css.map",
     "main.d1209827.js.map": "/ReactRandomQuoteApp/static/js/main.d1209827.js.map"
   },
   "entrypoints": [
-    "static/css/main.f991d860.css",
+    "static/css/main.05203606.css",
     "static/js/main.d1209827.js"
   ]
 }
