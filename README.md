@@ -1,5 +1,5 @@
 # ReactRandomQuoteApp
-This React project allows you to get on the first load a random quote from data gets by an API call and every time the button "new quote" is clicked.
+This React project initially loads a random quote fetched via an API call, and displays a new quote each time the 'New Quote' button is clicked.
 
 [Live View](https://ckhgueye.github.io/ReactRandomQuoteApp/)
 
